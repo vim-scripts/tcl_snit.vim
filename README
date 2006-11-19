@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1715
+
+Adds snit syntax to tcl.vim (vimscript #1603)
+
+Words that (can) conflict with Tcl
+      option - same word, different usage
+      variable - has additional options
+      configure - can step on tk configure !watch out! 
+
+
